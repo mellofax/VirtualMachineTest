@@ -1,0 +1,7 @@
+<suite name="Tests">
+    <test name="Swag Labs Tests" thread-count="1">
+        <classes>
+            <class name="tests.SwagLabsTests"/>
+        </classes>
+    </test>
+</suite>
